@@ -149,5 +149,5 @@ This project fully meets the instructor checklist for peer review.
 
 👤 Author
 
-Xudoyshukur Ozodov
+Abdukamol Homidov
 Little Lemon Booking System Developer
